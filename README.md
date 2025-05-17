@@ -20,6 +20,5 @@ Este é um portfólio pessoal desenvolvido como parte da atividade prática da d
 Theylor Machado
 - Email: theylor921@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/theylor921
-- GitHub: https://github.com/theylor999
 
-Este projeto foi desenvolvido como parte de uma atividade acadêmica."# trabalho_uninter" 
+Este projeto foi desenvolvido como parte de uma atividade acadêmica.
