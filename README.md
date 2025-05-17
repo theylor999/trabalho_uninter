@@ -1,6 +1,6 @@
 # Portfólio Pessoal - Theylor Machado
 
-Este é um portfólio pessoal desenvolvido como parte da atividade prática da disciplina de Fundamentos da Programação Web. O site foi construído utilizando apenas HTML e CSS puros, sem o uso de frameworks ou bibliotecas externas.
+Este é um portfólio pessoal desenvolvido como parte da atividade prática da disciplina de Ferramentas de Desenvolvimento Web. O site foi construído utilizando apenas HTML e CSS puros, sem o uso de frameworks ou bibliotecas externas.
 
 ## Estrutura do Projeto
 
